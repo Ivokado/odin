@@ -1,6 +1,7 @@
 # Odin Learning Repo
 
-This repo is a small learning base for The Odin Project.
+This repo is a small learning base for The Odin Project for myself. 
+The repo will be used to display both JS and Ruby on rails projects inside. 
 
 ## Learning Notes
 
